@@ -1,0 +1,114 @@
+﻿age,income,gender,education,occupation,savings,credit_rating
+25,45000,Male,Bachelors,Engineer,5000,Good
+32,80000,Female,Masters,Doctor,25000,Excellent
+47,120000,Male,High School,Manager,,Good
+55,95000,Male,College,Accountant,10000,Fair
+41,65000,Female,Bachelors,Teacher,8000,Poor
+28,35000,Male,High School,Driver,3000,Fair
+63,150000,Female,Masters,Lawyer,50000,Good
+37,,Male,College,Engineer,15000,Excellent
+42,75000,Female,College,Accountant,12000,Good
+57,110000,Male,College,Manager,30000,Excellent
+31,50000,Female,High School,Secretary,7000,Poor
+46,90000,Male,Bachelors,Doctor,20000,Good
+52,130000,Male,Masters,Lawyer,40000,Excellent
+29,38000,Female,College,Nurse,,Poor
+39,60000,Male,High School,Manager,10000,Poor
+48,115000,Female,Masters,Engineer,25000,Good
+26,41000,Male,College,,4000,Fair
+33,82000,Female,Bachelors,Accountant,18000,Excellent
+54,105000,Male,High School,Driver,28000,Poor
+43,70000,Female,Masters,Lawyer,,Good
+30,48000,Male,Bachelors,Accountant,6000,Good
+49,125000,Female,College,Manager,35000,Excellent
+38,57000,Male,College,Engineer,9000,Poor
+56,135000,Male,Masters,Lawyer,45000,Good
+27,39000,Female,High School,Nurse,5000,Fair
+45,85000,Male,Bachelors,Doctor,18000,Good
+51,120000,Female,Masters,Lawyer,32000,Excellent
+35,56000,Male,College,Teacher,8000,Good
+50,110000,Female,Bachelors,Accountant,30000,Excellent
+40,63000,Male,High School,Driver,,Poor
+53,125000,Female,Masters,Manager,38000,Good
+34,54000,Male,,Engineer,7000,Poor
+44,80000,Female,College,Manager,15000,Good
+58,140000,Male,Masters,Lawyer,50000,Excellent
+36,59000,Female,HighSchool,Secretary,6000,Poor
+31,48000,Male,College,Teacher,5000,Good
+47,105000,Female,College,Engineer,25000,Good
+55,130000,Male,Masters,Lawyer,40000,Excellent
+29,40000,Female,College,Nurse,4000,Poor
+39,62000,Male,High School,Manager,,Poor
+48,110000,Female,Masters,Engineer,28000,Good
+26,42000,Male,College,Accountant,8000,Fair
+33,84000,Female,Bachelors,,20000,Excellent
+54,115000,Male,High School,Driver,26000,Poor
+43,69000,Female,Masters,Manager,,Good
+30,46000,Male,Bachelors,Accountant,6000,Good
+49,120000,Female,,Lawyer,35000,Excellent
+38,58000,Male,College,Engineer,10000,Poor
+56,125000,Female,Masters,Lawyer,42000,Good
+27,38000,Male,High School,Nurse,5000,Fair
+45,90000,Female,Bachelors,Doctor,20000,Good
+51,130000,Male,Masters,Lawyer,38000,Excellent
+35,55000,Female,College,Teacher,9000,Fair
+50,115000,Male,Bachelors,Manager,27000,Poor
+40,64000,Female,High School,Driver,,Poor
+53,120000,Male,Masters,Engineer,30000,Good
+34,52000,Female,Bachelors,Accountant,6000,Fair
+44,75000,Male,College,Manager,14000,Good
+59,145000,Female,Masters,Lawyer,55000,Excellent
+37,60000,Male,High School,Secretary,8000,Poor
+32,48000,Female,College,Teacher,5000,Good
+48,100000,Male,College,Engineer,22000,Good
+56,135000,Female,Masters,Lawyer,48000,Good
+29,41000,Male,College,Nurse,4000,Poor
+46,96000,Male,Masters,Lawyer,29000,Good
+31,50000,Female,College,Teacher,8000,Poor
+44,80000,Male,College,Manager,18000,Good
+55,125000,,Masters,Doctor,45000,Excellent
+38,62000,Male,High School,Driver,11000,Poor
+27,39000,Female,College,Accountant,5000,Good
+50,110000,Male,College,Manager,32000,Excellent
+54,115000,Male,High School,Driver,33000,Good
+29,43000,Female,Bachelors,Engineer,6000,Fair
+42,90000,Male,Masters,Lawyer,22000,Good
+34,55000,Female,College,Teacher,10000,Fair
+51,125000,Male,Masters,Lawyer,35000,Excellent
+36,58000,Female,College,Engineer,8000,Poor
+48,98000,,Bachelors,Doctor,28000,Good
+56,140000,Female,Masters,Lawyer,48000,Excellent
+52,115000,Male,Masters,Engineer,33000,Good
+37,65000,Female,Bachelors,Manager,12000,Poor
+45,110000,Male,Masters,Lawyer,30000,Good
+54,120000,Male,High School,Driver,36000,Poor
+33,75000,Female,Bachelors,Accountant,15000,Good
+58,130000,Male,Masters,Lawyer,55000,Excellent
+30,48000,Male,College,Teacher,5000,Good
+48,105000,Female,Masters,Engineer,27000,Good
+56,130000,Male,Masters,Lawyer,40000,Excellent
+27,41000,Female,College,Nurse,4000,Poor
+45,95000,Male,Bachelors,Doctor,20000,Good
+51,120000,Female,Masters,Lawyer,33000,Excellent
+35,55000,Male,College,Teacher,8000,Fair
+50,115000,Female,Bachelors,Accountant,28000,Good
+40,63000,Male,,Driver,10000,Poor
+53,125000,Female,Masters,Manager,35000,Good
+46,96000,Male,Masters,Lawyer,29000,Good
+31,50000,Female,College,Teacher,8000,Poor
+44,80000,Male,College,Manager,18000,Good
+55,125000,Female,Masters,Doctor,45000,Excellent
+38,62000,Male,High School,,11000,Poor
+27,39000,Female,,Accountant,5000,Good
+50,110000,Male,College,Manager,32000,Excellent
+54,115000,Male,High School,Driver,33000,Good
+29,43000,Female,Bachelors,Engineer,6000,Fair
+42,90000,Male,Masters,Lawyer,22000,Good
+34,55000,Female,College,Teacher,10000,Fair
+51,125000,Male,Masters,Lawyer,35000,Excellent
+36,58000,Female,College,Engineer,8000,Poor
+48,98000,Male,Bachelors,Doctor,28000,Good
+56,140000,Female,Masters,Lawyer,48000,Excellent
+52,115000,Male,Masters,Engineer,33000,Good
+37,65000,Female,,Manager,12000,Poor
+45,110000,Male,Masters,Lawyer,30000,Good
